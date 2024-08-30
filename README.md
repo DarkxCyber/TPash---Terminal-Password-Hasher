@@ -23,12 +23,14 @@ PASH (Password Hasher) is a command-line tool that allows you to generate custom
 
    ```bash
    git clone https://github.com/yourusername/pash-password-hasher.git
+   
 2. Navigate to the project directory:
 
   ```bash
     cd pash-password-hasher
 
 3. Run the tool:
+
   ```bash
     python pash.py
 
